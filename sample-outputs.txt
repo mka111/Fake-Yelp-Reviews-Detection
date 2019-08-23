@@ -1,0 +1,397 @@
+413 Result Set: The following is the sample result of 1000 reviews for four Businesses.
+
+
+
+
+
+
+Test 1: Business = '5T6kFKFycym_GkhgOiysIw' 4.0
+Between verbs and pronouns 
+stars:  3 
+ I've been here before and it's really good. However they make it very difficult when getting a table. They will tell you to take a table in the bar and you do and it's not ok. Instead of the waiter going to ask if it's ok they want you to get up and walk back over there. It's just rude and makes you feel unwanted. I came here on a Thursday and a lot of the waiters were just standing around on their phones or just talking to each other. They serve you free popcorn but when I told the guy who brought it that I was ok on having it he just turned and walked away. I was just trying to save you a wasted bucket of popcorn. Incentive was the free corona light. I would like to continue coming here when in town but the service has got to get better. 
+
+Between fakeSentiment and verbs:
+stars:  1 
+ We are here on a conference at Aria and have gone here twice. The service is so so slow and not worth the high prices. Will not return with so many other options.
+
+Between sentiment and pronouns : 
+stars:  4 
+ 6/12/10 With my GF
+
+Lunch:
+1. Fright United Kingdoms $14
+Came with 4 drinks, all biter beers. I didn't like it that much, but I was able to finish them all. 4 * type of beer I like (Blue moon)
+
+1. Fish & Chips $19
+My GF like the dish she was able to finish it in no time. Came with two sauces. 4 *
+
+1. 1/2 Sirloin $36
+Didn't like it that much. Didn't finish it either. It came disassemble so you have to assemble it yourself. However, I was told by our waitress that I have to assemble them myself. 3 1/2 *
+
+Total: $74.59
+
+Pro: It's a sport bar, my sanctuary. We were watching FIFA USA vs. England. 
+Con: None 
+
+Between OutsideTresh and Verbs : 
+stars:  1 
+ Very bad experience! We sat down at 9 and had appetizers. Then, the waiter brought our main courses along with the check (he decided no dessert or coffee for us....). The meat was overcooked as he never asked us which cooking we wanted and we realized he decided for us which side we would have with our burger as he brought fatty fries which are not our favorites. At the same time, the lights were turned up, by mistake we first thought, but then the TV were turned off and people were cleaning around us. The food was good but we were so turned off but the service and ambiance that we left almost everything on the table.... will never go back there again.... this is Vegas.... do not sit people after 8 if you them out by 9:30.... 
+
+stars:  1 
+ We are here on a conference at Aria and have gone here twice. The service is so so slow and not worth the high prices. Will not return with so many other options. 
+
+stars:  1 
+ First, wait staffed acted confused and like we were bothering them when trying to order.  Met some friends from out of town and tried to have a couple of drinks but service was too slow.  We decided to go somewhere we would feel more welcome.  Staffed again seemed confused and unfriendly when I asked for check, so confused they charged my card twice for over $100.  I called back on Thursday to inform them of error.  I was told by manager this would be handled right away, with no apology.  Called back again sat to see what was going on since I didn't hear back yet and charge was still on my statement.  John (GM) told me that he would personally see that this was handled first thing monday morning... Well, 3pm on Monday I called and spoke to Tom who asked me my name so he could look it up??? (nothing had been done in 5 days???).  I asked why nothing had been done yet and he stated he was off and just got back today.. not sure what that has to do with me, I guess I am on their clock.  I then asked if he was the only person on the planet that could take care of it and he said yes, at this store I am.  He then said with an attitude that he tried calling me several times today, when I asked what number he was calling because I never received any calls, they had wrong number??? or so he says, unfortunately I cant believe anything they say at this point.  so I asked for corp number which is on the east coast and already closed, yes they failed to mention that also.  The worst part is their message system at corp is not working correctly or is working as well as their staff is here in Las Vegas... not really!  Not to worry, I wont be back!  stay away unless you have money to be tied up for a week and a half by their mistake. Normally I don't write a lot of reviews but this seems to be the only place that I can express how terrible my experience has been with these unfriendly, arrogant people as even their corp number held no relief and isn't working properly.  Hope I eventually get my money back... 
+
+stars:  1 
+ It was really good, right up until  the point I got food poisoning.  Had the brown butter lobster roll, had a few drinks at the bar...spent the rest of the night puking my guts out.  
+
+It was so good going down, absolute hell coming back up.  In case you were wondering it was about three draft beers so it was certainly not an over indulgence.  Couldn't come back here even if I wanted to. 
+
+stars:  1 
+ I really hate giving these types of reviews but when its  that bad...
+
+It was about 3pm on a Saturday afternoon there was a good amount of people in the place, but it definitely wasn't busy. Even though it wasn't busy it still the the lady behind the bar took forever to get me a menu and even longer to ask me if I was ready. I ordered my beer, I ordered my food then sat there for about another 45min. 
+
+Finally when my food came it looked amazing and all of the bad that just happened didn't matter.... until I bit into my burger. It might as well been made from a solid block of salt, it was that salty. When I say that I'm not exaggerating when I say this, I've never had anything that salty in my life. 
+
+I ask the woman for the check (I didn't ask them totake the food back) she noticed I had only taken one bite and at least took it off my bill (without my asking). At least she tried to make it right but it was too late. I was starving to begin with, and I left just as hungry...
+
+It sucks because my local friend said it was a good place to grab a burger, just not for me... not that day at least. Maybe I'll try it again but not any time soon. 
+
+stars:  1 
+ I went to have lunch at this place on Sunday and after ordering what I thought would be a blue cheese burger turns out to be completely awful.  Who ever thought this was a good idea doesnt know what they are talking about.  The bartender that was serving us was not the best.  Kinda annoying, after complaining about the food and not finding anything I would like to order instead I got the bill.  Nothing was comp or discounted.  I spent 120.00 on crappy bar food.  would not return at all! 
+
+stars:  1 
+ Came here Sunday, late night. Their yelp says they are open until 2 AM. We walk in, we get stopped by the bartender saying cut off is 12am and he shrugged us off when we brought up their Yelp time of 2am closing. Rude, unprofessional, get your act together. The food looks mediocre anyways, you're better of going to Denny's, if you're going to go goblin GMO might as well skip the over priced pub here. 
+
+stars:  1 
+ Service was horrible. Ordered a drink for one person, didn't even ask if anybody else wanted to drink and he left. Drink took forever to arrive. We got tired of waiting it just paid for the drink and left and did not get any food. Will not be back I 
+
+Between OutsideTresh and Pronouns
+stars:  1 
+ Bad service. We have five people and they just gave us a table for 4. Then we asked for one more chair they just kept saying 'give me one second' and ignore us. My frd stood in the restaurant for ten more minutes. At last we got the chair ourselves. 
+
+Test 2: Business = “LFs5jyYdXlzi0SpAYi1eSA” 3.5
+
+Between Verbs and Pronouns 
+stars:  5 
+ So my bf and I decided to eat here while we were at the fashion show mall. He kept raving to me how good it was so I wanted to try it. And he was RIGHT!! It is absolutely delicious. It's fine dining so of course service was great as well. 
+
+stars:  2 
+ My husband and I ate here before seeing The Beatles Love. We've dined here a couple of times before. We made a reservation and when we checked in, it still took 20mins to seat us. We noted that we were not celebrating anything, just having a date night. We had four people ask us if we were. It was starting to get annoying! I had the mushroom ravioli. It was extremely salty and I had a hard time trying to eat it. My husband had the steak with asparagus risotto. He asked for it medium rare and it came our almost well done. At this point we were running late for our show and just wanted to eat and leave since we were walking to the mirage. I doubt we will be returning to this location. Hopefully the downtown summerlin location will provide a better experience. 
+
+Between Sentiment and Verbs
+stars:  4 
+ The food was really good -- my gosh, the desserts were delicious. However, when my husband and I arrived, it took us literally over 30 minutes to be seated. Our host, Antonio, had bright red eyes and was slurring his words. It was apparent that he was high. He didn't apologize for the wait and gave me dirty looks. Funny enough, we didn't see him around for the rest of the evening. Our waitress was super sweet, though. I'd definitely go back. 
+
+stars:  4 
+ I ordered take out.  Four cheese ravioli with pesto Alfredo.  I drove home and to my dismay my pasta was covered in marinara. I called and the manager answered.  He was very kind and said he would start the correct order right away.  He explained the dish is garnished in marinara.  However I did not read that in the description and dislike tomato sauce.  As soon as I returned to the restaurant they replaced the pasta. I was frustrated I had to drive all the way back, but they gave really great service. 
+
+stars:  4 
+ i would give it 5 stars.... any other time i would give this place 5 stars - because this place )and the bay area, CA one is amazing and have never had a negative moment....
+BUT when i went 4/16/2012 - this evening - the inside host was absolutely pure rudeness!! first we went in with a reservation (why one makes reservations here - you still got to wait) we were early so that worked out because we got in just about right after our reservation time... when we walked in we were welcomed by 2 host, the girl on the right when you walk in took our name, and we asked her if we could sit outside, she rudely walkie her outside host and told us no seats available, we took our page and as we did I assured with her we would be seated outside, she said yes just wait until its our actual reservation.... our buzzer page and we came inside to thesame host, and she told us to step to the side and wait to be seated, I said "well be seated outside, right?" host, "no, you never said anything about wanting to be outside, if you wanted to sit outside all you had to do was ask the outside host and be seated out there", here I bit my tongue from yelling or getting loud and i informed he that she never said any of that and that I had mentioned more than twice that we wanted to sit outside and recalled for her how she even called out to the outside host, the host stated "oh that wasn't me, you must have talked to someone else" so lets just say this went on for a few minutes, i was VERY UPSET!!
+we had to walk ourselves outside and talk to the outside host ourselves to be seated.... our waiter Miguel - took our mind off it, made us laugh and was so good spirited....
+he also can carry a couple arm full of dishes....
+food is good!! 
+
+stars:  5 
+ The food is absolutely amazing! Our waiter was awesome but the hostesses working tonight are horrible. No energy, no smiles, and they were very rude. They made me feel uncomfortable and I'm sure anyone else would feel the same. Like I understand you may not be working but you're making money so slap on a smile and fake it! These two girls would never survive where I work. 
+
+stars:  2 
+ Oh no, Maggiano's, what is happening to you?  This used to be a GREAT place to eat, with delicious food, wine, good atmosphere and service.  Sadly, about a year ago when I was in LV and I ate there with my partner the food was just OK and we felt it was overpriced for the quality. I felt the same when I was there again last October.  Still, I have eaten there almost every trip I take to LV so I went again a few days ago. This time, YIKES!  I ordered the eggplant parmesan and I could barely eat it.  I wonder if it was stored in the kitchen for a while or what, because I could only eat a few bites.  It was sitting on top of spaghetti which was (weird and tasted) just OK.  Before my main meal I had tomato bisque soup which was very salty.  I was so disappointed in the meal.  My waiter was rather scattered.  I had to ask him four times for some butter for my bread. I will say he was friendly and did his best.  I think he could tell I did not like the food as he did give me some lemon cookies from their bakery when I asked for my check.  I will say those were delicious, but I wasn't there for cookies.  I don't think I will come back to eat at Maggiano's unless the locals tell me that the restaurant has improved and is back on track. I'm sad to give this review as I really used to love Maggiano's, and that is why it gets two stars instead of one.   :-( 
+
+stars:  2 
+ My husband and I ate here before seeing The Beatles Love. We've dined here a couple of times before. We made a reservation and when we checked in, it still took 20mins to seat us. We noted that we were not celebrating anything, just having a date night. We had four people ask us if we were. It was starting to get annoying! I had the mushroom ravioli. It was extremely salty and I had a hard time trying to eat it. My husband had the steak with asparagus risotto. He asked for it medium rare and it came our almost well done. At this point we were running late for our show and just wanted to eat and leave since we were walking to the mirage. I doubt we will be returning to this location. Hopefully the downtown summerlin location will provide a better experience. 
+
+OutsideTresh and Verbs
+stars:  1 
+ Made a Reservation here Saturday night to celebrate my birthday dinner after hearing great things about the food. Reservation was for 8:45pm and we got there at 8:30pm. Waited for about 45 minutes until going inside to ask the hostess how much longer. We also asked "what was the point of making the reservation if we had to wait for so long anyways?" the supervisor said that "If we didn't like it, then we could call and complain about it." So after no apology or the supervisor even offering to check on the table for us, we left very unhappy. Ended up going to a Mexican place next to it where we were seated immediately and the food was delicious and the service was great. 
+
+stars:  1 
+ Don't even think of going here unless you make a reservation. I was just there at 7:05pm and was told the wait was 45 minutes n then an hour and then we would be seated at  8:16 n then there are 8 reservations ahead of you.  It's 8:53 n still no table so we left. 
+
+On our way out we tried to just order out with the lady at the front desk n she was not familiar with the menu and she said she was new. 
+
+So make sure u make reservations. Just got text at 9:03 that my table is ready 
+
+stars:  1 
+ First, let me set the stage...my wife and I were married 2/21/11. We ate at this Maggiano's that evening. Since then, we have eaten at this Maggiano's every year on our anniversary. So, you can imagine how special it is to us. Using Open Table, I booked us for 2/21/16, left a note stating our special occasion and began looking forward to the date. We arrived early, told the hostess and manager it was our anniversary and were seated. Ten minutes (not an exaggeration) later, other than a waiter saying he wasn't our waiter, but brought us water and bread, we had not been greeted or otherwise acknowledged, we got up and left.
+Needless to say, we found a new restaurant to help us celebrate as we will not go back to Maggiano's. 
+
+stars:  1 
+ I'm a regular guest, and I'm very disappointed with the new "photography" service that this restaurant offers. The girl that barely spoke English, insisted on taking a picture while I was eating!!! Moreover, in approximately five minutes a young man, who did not have a proper uniform for this upscale place, came over with a printed pictures and pushed me to buy one. I can't believe this restaurant went down so low to allow soliciting. I simply won't be back. 
+
+stars:  1 
+ The restaurant has nice design, but it's too overpriced. The food is not worse the price. Service was good, but our waiter did not follow up his suggestion. I will never go there again. 
+
+Test 3: 'r5PLDU-4mSbde5XekTXSCA' 4.5
+
+Verb and Pronoun
+stars:  5 
+ I can basically eat here everyday. They have so many good things ion the menu I will never get through it 
+
+stars:  5 
+ We eat there alot and we have never had a bad meal. It is recommended to call ahead to place your order. 
+
+stars:  5 
+ I cannot honestly say I've had a better cheese steak anywhere else. Defalco's is absolutely the best I've had. If you know of a better one I beg you to share that knowledge. 
+
+I always try and call ahead, they get really busy, often, understandably so. 
+
+stars:  4 
+ Well, I have come here several times now. It is a grocery and a restaurant. While it is supposed to have the feeling of the Neighborhood store. I just don't feel it.
+It is nice ,the food is good, but it is not great.
+The grocery food items for purchase have dust on them. I do not like that at all. It creeps me out a bit. Living in AZ ,I know Dust comes in from every direction. But, that is why you have to clean it.
+
+It is a great location in Scottsdale. I do love their Mozzarella and the sauce they use for the restaurant meals.  However, I am just not blown away with everything else.
+It is good though. We are in the Desert and it is hard to find really good Italian here. Although Las Vegas seems to have it down. Maybe there are just not that many Italians here. So they do not need as much great stuff. 
+I do find Romanelli's to be much better. More Neighborhood like in it's feel.
+It is worth checking out though.You could definitely do worse. 
+
+stars:  1 
+ Service is SO BAD. I'm pretty sure they actually think it's ok to treat a customer like they aren't important. Food is decent. I think this place is completely over-hyped. If you want to modify any order, you're looked at like they wanna kill you. Never again. 
+
+stars:  4 
+ I was told about this place by a few coworkers and I knew that I had to try it!  I used to live in Italy and I really miss the italian products and food!  It was so fun to step in there and see things I used to get in Italy!  I would definitely give the grocery part 5 stars...I go back all the time to get my italian fix.  I love their pizza it is yummy...but it took them like 45 minutes to make it.  I have also had their italian sausage sandwich which was also great but that took over a half an hour too.   I guess it is the Italian mentality where nothing should be rushed but it was a little long!  I always come back because it is delicious and so worth the wait!  The staff is friendly.  I give it four stars because the items take so long...it is ok though I will always come back and I definitely recommend it to my friends! 
+
+stars:  5 
+ This was my first visit and they were pretty busy, but the wait wasn't too long. There was still seating available so that was good. I shared a full sandwich with a friend which we were told it was 12 inches, but it seemed smaller than that. It was very good though. I recommended this place to a client and he loved it as well. I will definitely go back as they have an extensive menu to try. 
+
+stars:  5 
+ You have got to try this place. I love Italian food and this place did not disappoint. Go there and enjoy it! 
+
+stars:  4 
+ I'm torn.  My wife and I tried this place primarily because it was profiled on DDD.  We shared a pizza.  Thin crust (the way we like) and it was probably one of the tastiest pizzas we've ever had!
+BUT, when it arrived at our table it was BARELY lukewarm.  Had it been sitting around awhile before the server brought it to us?  Was it so busy in there that it took some time for the server to bring it to us?  I don't know.
+Sorry, guys.  That's why I can't give you 5 stars. 
+
+stars:  5 
+ Get the PESTO philly cheese steak amazing.  Sounds wierd and gross but not!  Their pizza is really good too.  You can't go wrong here.  I would suggest calling in your order.  I do that all the time and you can still eat it there.  If you go to eat in, it takes time.  You are not at Mcdonalds. 
+
+stars:  5 
+ Love this place but know that it's going to be packed and you will be waiting. 
+I've had the meat lasagna which I loved 
+I also buy my Italian deli meats there. 
+
+stars:  4 
+ The sandwiches are very tasty - I've liked every one that I've tried so far.  The pizza we had last time we were there - not likely will ever be ordered again.  Maybe I'll try a pasta dish next time I'm there.  :) 
+
+stars:  5 
+ Very authentic.  It's a ways away from where I live now but it's my go-to spot when I want to treat myself. It's reminiscent of some of the Italian eateries I grew up going to in the Boston area. Definitely give this place a try 
+
+stars:  3 
+ I am from Philly and know about cheesesteaks. I had one today, and was disappointed. They're usually tender and flavorful, but this was tough and chewy. My husband had a chicken cheesesteak and loved it. The meatballs were bland too (the kid's lunch). Last time we were here it was better. We'll try it again. Maybe it was an off day. It's not a bargain though, so I'd expect a bit better. 
+
+stars:  5 
+ It's been atleast like 4 years since I have been here, maybe 3. But I recently passed it today and remembered how great this place is. I had a meatball sub. I think. I'm not positive but it was just amazing whatever I had. I can't wait to actually go back now that I remember this place. I recommend to everyone. 
+
+stars:  5 
+ Every time I come here I get something different and I've never been dissapointed. Everything is so fresh, and put together so nicely. The staff is always so friendly and willing to answer any questions you have. love you Delfalcos. And you have found yourself a regular customer. 
+
+stars:  5 
+ Never ordered anything I didn't like! I love family businesses and this place is awesome. I always get the stuffed shells and it's the best I've ever had! 
+
+Sentiment and verbs
+stars:  4 
+ I'm torn.  My wife and I tried this place primarily because it was profiled on DDD.  We shared a pizza.  Thin crust (the way we like) and it was probably one of the tastiest pizzas we've ever had!
+BUT, when it arrived at our table it was BARELY lukewarm.  Had it been sitting around awhile before the server brought it to us?  Was it so busy in there that it took some time for the server to bring it to us?  I don't know.
+Sorry, guys.  That's why I can't give you 5 stars. 
+Sentiment and pronouns 
+stars:  4 
+ I'm torn.  My wife and I tried this place primarily because it was profiled on DDD.  We shared a pizza.  Thin crust (the way we like) and it was probably one of the tastiest pizzas we've ever had!
+BUT, when it arrived at our table it was BARELY lukewarm.  Had it been sitting around awhile before the server brought it to us?  Was it so busy in there that it took some time for the server to bring it to us?  I don't know.
+Sorry, guys.  That's why I can't give you 5 stars. 
+
+stars:  5 
+ I had the eggplant parmisian sub thing. Holy god. I've only been there once and it was a long time ago but I remember thinking "Why am I such a super-human moron? Why don't I eat here regularly?" 
+
+Strangely, God responded. Some joke about me falling down the tree and hitting every branch. You know how it goes... 
+
+I did not experience the extreme wait times that other people mention but that would really annoy me depending on my mood. Yet another reminder I'm not self-actualized. 
+
+stars:  2 
+ I really wanted to love this place because it is so close to me..but no such luck.  I ordered the Beef Cheese Steak, and when it arrived it looked so good but my first bite revealed an overly cheesy and flavorless chopped meat.  Granted, I did not get the peppers and onions but I expected the meat to be able to hold it's own..I was wrong.  Too bad, the search continues. 
+
+Outside and verbs
+stars:  2 
+ Many times I've been ignored or treated rudely here.  I feel like I'm an interloper, not welcome.  Maybe that's their thing, but I prefer good customer service. 
+
+stars:  2 
+ I am still scratching my head, wondering why Guy Fieri liked this place so much. It was clean, the food was good, but so is Subway...sorry. 
+
+stars:  1 
+ Service is SO BAD. I'm pretty sure they actually think it's ok to treat a customer like they aren't important. Food is decent. I think this place is completely over-hyped. If you want to modify any order, you're looked at like they wanna kill you. Never again. 
+
+stars:  1 
+ We came for the first time because of all the nice reviews and left dis -appointed, -gusted, -approved, -dained.
+
+The people were terrible to us, the place was a mess, we did not get any help or service being it was our first time.
+
+Then when we went to sit down the floor was wet all over and we ended up having to jump around to sit outside.  Apparently the bathroom overflowed per one of the employees.  It probably should have been closed.
+
+The food was nothing special and actually below average.   I ordered one of their sandwiches and it was missing items that were supposed to be on it.  Not to mention they forgot to even make it; I had to go up and ask for them to make it.  The pizza ordered was soggy, greasy and devoid of flavor.   No napkins or silverware was provided.  Nobody bother to check on customers.  The tables were disgusting, I cleaned them myself with alcohol wipes.
+
+In our time there, we noted two other customers who also had bad experiences.  Maybe a bad day, but still unacceptable.  Just not worth the money or time for that kind of experience.
+
+Never again! 
+
+stars:  2 
+ Maybe I missed something here, but I wasn't impressed. Had the cheese steak, which I can see had great potential but was...well...bland. Also had the arancini and it also was bland and a bit overlooked. Actually it tasted burned. Maybe just that evening but it all could have benefited from some more seasoning. Lots of other really good reviews so I'd likely give it another chance, but maybe not. 
+
+stars:  2 
+ To simply put, nothing special.  We had steak and sausage combo sandwitch and margarita pizza.  They were both bland and terribly uninteresting.  Based on what we had, I don't know how they are rated 4 stars in Yelp. 
+
+Outside and pronouns 
+stars:  1 
+ This is for the tall thin guy working the phones and counter who always makes it a challange to order.  I wonder when he will stop it or just go find work he likes.  
+
+I know he has been there a long time and everyone I talk to about the business thinks he is a problem.  I think maybe the capacity is just not there for him to know the menu and it is easier to make the customer sound like the idiot.  It is really a shame they have this guy working the front lines. 
+
+I ask for the itallian and he says, "which one we have a lot of Italian sandwhiches.  I order a cheesesteak the way I order them in Philly and he gives me a hassle on that.  He actually asked me where I was from and told him Philly. What is the use for the attitude... right?
+
+I copied and pasted the sandwhich I just tried to order.  It looks like the only Italian and it is first on the cold sandwhich list.  
+
+Italian Combo 
+Ham, Salami, Pepperoni, Mortadella & Provolone 
+
+stars:  1 
+ Service is SO BAD. I'm pretty sure they actually think it's ok to treat a customer like they aren't important. Food is decent. I think this place is completely over-hyped. If you want to modify any order, you're looked at like they wanna kill you. Never again. 
+
+stars:  2 
+ I really wanted to love this place because it is so close to me..but no such luck.  I ordered the Beef Cheese Steak, and when it arrived it looked so good but my first bite revealed an overly cheesy and flavorless chopped meat.  Granted, I did not get the peppers and onions but I expected the meat to be able to hold it's own..I was wrong.  Too bad, the search continues. 
+
+stars:  2 
+ Food Is above average for Arizona Italian food. Price isn't bad and decent value. The wait is the problem...I order food and it takes forever...I order to pickup and they are 30 min past the time they suggest...I tell them two hours in advance I am coming at 6pm and it's not ready to 620....come on.... 
+
+stars:  2 
+ Wasent impressed at all with the service or the food !! First time here my little sister brought me I had the sausage sandwich and when they brought it to the table it was cold the sausage was good though!! We ordered drinks and they came after our food did which was odd !! We were hot and thirsty and wanted our drinks !! The service was really slow  and it just seemed like nobody wanted to be there !!  I'll give this place another shot and maybe next time  it will be different !! We will see that's why I gave it 2 stars 
+
+stars:  2 
+ I finally made it over to this place after bookmarking it about a year ago. I ordered the Purista and I wasnt impressed. They screwed up my order and put the oil and vinegar on it. I specifically asked for it on the side. So instead of starting over, they included cups with extra on the side. Ew. By the time I got home it was soggy. The flavors were good but definitely not worth the price. I thought everything was overpriced actually. I dont mind spending a decent amount for a sammich but that was a rip off. I browsed the other items available and the selection was extensive and crammed into a super tiny space. I don't think I will be back. 
+
+Test 4:  Yl05MqCs9xRzrJFkGWLpgA
+
+Between verbs and pronouns:
+stars:  5 
+ I want to start off and say I don't post a lot, obviously. But this place deserves some props. We went on Sunday and it was packed! We had to wait but it was worth it. As soon as we sat down our server Matthew greeted us. We were a large party and usually when we go out there is a mishap. Not today. Order was perfect food came out hot and glasses were never empty. I will definitely recommend to my friends. A+ service and food. 
+
+stars:  1 
+ First and last time there.  Had a 930 reservation. Checked in at 915. At 1030 we asked when we would be seated. They had no record of us checking in, even though they gave us a buzzer.  We finally got seated at 11. I had ham hash. It was all fatty meat.  Disgusting.  Over priced Bloody Mary, that was not even that good. 
+
+stars:  5 
+ Chris is absolutely amazing. We were visiting from out of town and Chris made us feel right at home! We came on a Friday and we fell in love with Chris so much that we came back on Sunday. It was packed but Chris got us drinks and Breakfast Popsicles while we waited! The food is so good but Chris made us want to come back again and again! Thanks bro, you rock! The Hash Kitchen is lucky to have you! 
+
+stars:  4 
+ I just found this restaurant and loved it! My friends and I went there yesterday and was impressed with the food variety snd the service. I'll be back for sure! 
+
+stars:  1 
+ Beware coming here! We've been waiting 45 mins and every time we talk to the hostess she tells us that there's still people ahead of us. We saw people get out of there care 20 mins after us and they got seated first just because it was a bigger party. They also had multiple tables empty. Your time and money can be better spent elsewhere. 
+
+stars:  1 
+ They have a real problem
+Tried to have breakfast there and was told there was a 30 minute wait although there were several open tables they said kitchen was running slow
+I am not impressed they are going to need to step it up if they plan to succeed as for me I will not return 
+
+stars:  1 
+ They have horrible customer service. We called to ask for reservations and were told we couldn't make reservations, when we walked in they asked us why we didn't not make a reservation. After waiting 45 minutes we were told we could sit directly in the sun or wait another 50 minutes. We would have loved to had the food and given them our $500 bill but we will take our money elsewhere. 
+
+stars:  2 
+ They won't take reservations or call aheads and the music is too loud, you cannot talk or hear anyone... it's like a rave.  It would be better if it was less loud, because you want to make sure customers can interact. 
+
+stars:  1 
+ Atrocious! 
+We called over the phone to see how long the wait was and if we could put our names down. They said of course and that we would be next for a table when we got there. Upon arriving the manager met with us and told us, ' we dont do a wait list over the phone but we made a special case for you but dont do it again.' Saying it very loudly so everyone else waiting would hear. It was so rude and uncomfortable! Why didnt he just tell us that on the phone when we first called that it was first come first serve? We would have waited. Upon sitting down the entire meal took 2 hours!!! It took forever to get our food and only half of it came. The food was so-so and over expensive mimosas. The water smells like fish..... go ahead smell the water before you sip. You'll understand what I mean. Absolutely disgusting place, I have no idea why it has such high reviews. 
+
+Between sentiment and verbs:
+stars:  1 
+ I spent $20 for the Paella Hash, it was supposed to come with shrimp and chicken and sausage but only had two little pieces of each! I am very disappointed with this place, it was freezing inside and service was very slow. I will not come back. 
+
+stars:  5 
+ This will be the weirdest review I've ever written. My wife is diabetic and a kidney transplant patient. She cannot eat poached eggs. 
+We ordered coffee and water and looked over the menu. She decided on a pancake and asked for sugar free syrup. The waiter responded kindly that all they had was maple syrup. We were surprised that a breakfast restaurant did not have sugar free syrup and decided not to eat here. 
+I tried to pay the server for our coffee but he was very kind and denied to take my payment. He also apologized for not having sugar free syrup. 
+We did not eat here but gave it a 5 star rating based on their kindness and professional attitude. 
+We will not be able to go back but really appreciated how we were treated.
+
+Between sentiment and pronouns:
+stars:  2 
+ The drinks are solid. Sadly, I ordered the bacon and Brie bruschetta and then got a sampler platter instead with sweet ones that had Nutella and fruits in addition to the one I ordered. I'm sure they were great but just not what I like or ordered. I asked the waitress about it and she said she was sorry she didn't mention they only sold this variety bruschetta plate. She was very nice and went back to ask the kitchen to make me a full order with just the bacon and Brie, which was very nice. Then they brought it out and it was just some sad bacon on bread without Brie... this was probably a one off experience. I won't come back but I won't deter others. Just clarify your order... a few times.
+
+Hi Joe 
+
+stars:  2 
+ I previously gave Hash Kitchen 5 stars, couldn't wait to bring my adult children when they visited.
+I'm hoping I caught them on an off day and all the new restaurants opening are not diminishing the product. My son got a Bloody Mary per my recommendation. He came back with it virtually empty. They  had not refilled it so there was no bacon and many other items. Our meals were served without the biscuits. Our waiter told us they were making fresh ones, they'd be out in 5 minutes. 30 + minutes later we left without having them.
+The food, previously amazing, was only adequate. I don't want to write this place off so I will be optimistic that this was an aberration. 
+
+Between Outside tresh and fake verbs 
+stars:  1 
+ Very disappointing!  We needed to ask for coffee refills, oatmeal served without milk, hash was subpar.  Server acted as though he wanted to be somewhere else.  Never again.  We also felt the same after one try of the fish restaurant they had before. 
+
+stars:  1 
+ First and last time there.  Had a 930 reservation. Checked in at 915. At 1030 we asked when we would be seated. They had no record of us checking in, even though they gave us a buzzer.  We finally got seated at 11. I had ham hash. It was all fatty meat.  Disgusting.  Over priced Bloody Mary, that was not even that good. 
+
+stars:  1 
+ Made a reservation and still had an hour wait. Ended up leaving because too crowded and music was way too loud. Will not come back. 
+
+stars:  1 
+ I spent $20 for the Paella Hash, it was supposed to come with shrimp and chicken and sausage but only had two little pieces of each! I am very disappointed with this place, it was freezing inside and service was very slow. I will not come back. 
+
+stars:  1 
+ Not good. I was treated like I was annoying the bartender by asking to order, or pay, etc. etc. Items were missing from my order, too. 
+
+stars:  1 
+ First time coming here and I was excited because I have heard so many good things. If I could give 0 stars I would, the server Tiana is rude and does not know anything about customer service. I will never be coming back and I will make sure to never recommend this place. 
+
+stars:  1 
+ Don't let the pictures deceive you. This was the worst restaurant experience I've ever had. We came to celebrate a birthday and were told the day before that they didn't accept reservations less than 10 people (we were a party of five). We decided to get there right when they opened so we wouldn't have to wait. The manager asked if we wanted to sit outside and when we asked to have a table inside, he acted like it was a big deal (which makes no sense because it was empty and there were plenty of tables that were clearly not reserved). Apparently they were understaffed by 3 people and their ticket machine was down so our ticket was lost or never got printed, we are still trying to figure that out. It took over an hour to get our food, which came before our appetizer and everything was just awful. The food tasted sour, undercooked, and messy. It was embarrassing. It took over 20 minutes to get condiments and everyone looked so unhappy there. While the server tried her best, and genuinely felt awful about our experience - I am most shocked that the three managers knew what was going on and purposefully avoided our table. 10/10 would not recommend. They also expected us to pay the whole bill when everyone ate less than a forth of our food because it was so awful. We left and went to another restaurant for breakfast. If management continues the way they handled our situation, this place will not be there long. I understand why 3 people didn't show up today if they had to work for those three morons who don't know how to manage a business. 
+
+stars:  1 
+ Beware coming here! We've been waiting 45 mins and every time we talk to the hostess she tells us that there's still people ahead of us. We saw people get out of there care 20 mins after us and they got seated first just because it was a bigger party. They also had multiple tables empty. Your time and money can be better spent elsewhere. 
+
+stars:  1 
+ They have a real problem
+Tried to have breakfast there and was told there was a 30 minute wait although there were several open tables they said kitchen was running slow
+I am not impressed they are going to need to step it up if they plan to succeed as for me I will not return 
+
+stars:  1 
+ They have horrible customer service. We called to ask for reservations and were told we couldn't make reservations, when we walked in they asked us why we didn't not make a reservation. After waiting 45 minutes we were told we could sit directly in the sun or wait another 50 minutes. We would have loved to had the food and given them our $500 bill but we will take our money elsewhere. 
+
+stars:  1 
+ Brought my family to brunch today n I should have went with my gut and went to El Chorro. We called at 1130 and were told the wait was about 35 minutes so we drove 40 minutes there. We were given a pager and told it was 30 minutes. The odd thing was we kept seeing people come in after us and get seated. My annoyance started.  After we were seated it took a good 8 minutes to be acknowledged by a server. The food was mediocre, the service was off n then she over charged us and I had to correct her. Please keep your money or spend it elsewhere. The only lure here is the blood Mary bar. 
+
+stars:  1 
+ First time going here today. Waited for almost 40 minutes for our order...our ticket got lost in the kitchen but they weren't even busy. The lady gave us some donuts on them while we still waited...finally the food comes out & I'm eating my pancakes when I realize there is a long black hair mixed into the pancakes DISGUSTING!!! Never going back. 
+
+stars:  1 
+ Terrible hostess service and very unorganized. I really wish I could give a review of what looks like great food, but I wouldn't know seeing as the hostesses forgot about us after we had been waiting for a little more than an hour to eat. We arrived expecting 6 people to show up, but as soon as we knew there'd be less we let the hostesses know there'd be 4 instead. Our buzzer went off right as we went up to change it again to add one more and she said she'd reset it for us when they would have a bigger table available. We were very upfront and flexible as we knew the number of our group was being unpredictable against our will. We were very present and proactive about this. So you wouldn't think we'd be easily forgotten. So we sat and sat and sat. Soon we noticed that a large group who was there after us got seated outside. The tables were even pushed together for them. We were told that that wasn't possible. We brought that to the attention of both women and noticed that our name had already been crossed off and other large groups were put before us. The women proclaimed that they never said that we couldn't sit outside and that they would never say it to begin with. We received no apology and they never admitted a fault. We left right away and went and had fantastic crepes and French cuisine right across the parking lot instead. 
+Also, don't expect to socialize comfortably with family etc as the music on Sunday mornings is obnoxiously loud and unnecessary. If that's your thing, then more power to you. 
+
+stars:  1 
+ Atrocious! 
+We called over the phone to see how long the wait was and if we could put our names down. They said of course and that we would be next for a table when we got there. Upon arriving the manager met with us and told us, ' we dont do a wait list over the phone but we made a special case for you but dont do it again.' Saying it very loudly so everyone else waiting would hear. It was so rude and uncomfortable! Why didnt he just tell us that on the phone when we first called that it was first come first serve? We would have waited. Upon sitting down the entire meal took 2 hours!!! It took forever to get our food and only half of it came. The food was so-so and over expensive mimosas. The water smells like fish..... go ahead smell the water before you sip. You'll understand what I mean. Absolutely disgusting place, I have no idea why it has such high reviews. 
+
+Between OutsideTresh and pronouns 
+stars:  1 
+ First and last time there.  Had a 930 reservation. Checked in at 915. At 1030 we asked when we would be seated. They had no record of us checking in, even though they gave us a buzzer.  We finally got seated at 11. I had ham hash. It was all fatty meat.  Disgusting.  Over priced Bloody Mary, that was not even that good. 
+
+stars:  1 
+ Beware coming here! We've been waiting 45 mins and every time we talk to the hostess she tells us that there's still people ahead of us. We saw people get out of there care 20 mins after us and they got seated first just because it was a bigger party. They also had multiple tables empty. Your time and money can be better spent elsewhere. 
+
+stars:  1 
+ They have a real problem
+Tried to have breakfast there and was told there was a 30 minute wait although there were several open tables they said kitchen was running slow
+I am not impressed they are going to need to step it up if they plan to succeed as for me I will not return 
+
+stars:  1 
+ They have horrible customer service. We called to ask for reservations and were told we couldn't make reservations, when we walked in they asked us why we didn't not make a reservation. After waiting 45 minutes we were told we could sit directly in the sun or wait another 50 minutes. We would have loved to had the food and given them our $500 bill but we will take our money elsewhere. 
+
+stars:  1 
+ Second time here was a cluster. The front staff was very unorganized and unprofessional. I was told our wait would be 15 minutes. They proceeded to seat people that arrived after we did. We waited 25 minutes I finally asked the hostess and I was told the owners Doctor got precedence over us. That is the last time I attempt to eat here. 
+
+stars:  1 
+ Atrocious! 
+We called over the phone to see how long the wait was and if we could put our names down. They said of course and that we would be next for a table when we got there. Upon arriving the manager met with us and told us, ' we dont do a wait list over the phone but we made a special case for you but dont do it again.' Saying it very loudly so everyone else waiting would hear. It was so rude and uncomfortable! Why didnt he just tell us that on the phone when we first called that it was first come first serve? We would have waited. Upon sitting down the entire meal took 2 hours!!! It took forever to get our food and only half of it came. The food was so-so and over expensive mimosas. The water smells like fish..... go ahead smell the water before you sip. You'll understand what I mean. Absolutely disgusting place, I have no idea why it has such high reviews. 
+
+

@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+sklearn
+nltk
+notebook
+nbimporter
+seaborn
+string
+json

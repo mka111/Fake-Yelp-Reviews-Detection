@@ -1,0 +1,5 @@
+The dataset we used was from the following link, 
+https://www.yelp.com/dataset/download
+as long as the business dataset and reviews dataset from this link is
+in the data folder it will run. These data sets were too large to upload
+for gitlab. 
